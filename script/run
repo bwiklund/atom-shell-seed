@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+./binaries/Atom.app/Contents/MacOS/Atom app/
